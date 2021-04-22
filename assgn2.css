@@ -1,0 +1,24 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90%;
+    background-color: white;
+    margin:left;
+    width: 700px;
+    padding: 0 2em 1em;
+
+}
+
+.center {
+    height: 200px;
+    background-color: red; 
+    background-image: linear-gradient(to right, red , pink); 
+
+}
+        
+.bottom {
+    height: 200px;
+    background-color:coral;
+    background-image: linear-gradient(to left, yellow, orange)
+
+}
